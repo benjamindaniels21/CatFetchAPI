@@ -1,0 +1,20 @@
+body {
+  background-color: navy;
+  text-align: center;
+}
+
+h1 {
+  color: yellow;
+}
+
+button {
+  background-color: yellow;
+  border-radius: 5px;
+  height: 30px;
+  width: 200px;
+}
+
+img {
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
